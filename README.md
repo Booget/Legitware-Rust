@@ -24,8 +24,7 @@
  
 
   ## 🖥️ Features
- - ⚡ GUI Screenshot: https://imgur.com/bfthtyA
- - ⚡ In action video: https://www.youtube.com/watch?v=eWQbk1KgXi0
+ - ⚡ GUI Screenshot: https://imgur.com/a/KYxbakB | https://imgur.com/a/MArTf5I
  
 For any questions feel free to message me on discord, booget#0001!
 
