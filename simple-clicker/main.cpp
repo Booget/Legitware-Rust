@@ -88,7 +88,6 @@ int main(int, char**)
         ImGui::NewFrame();
         {
             menu::render();
-            ImGui::ShowStyleEditor();
         }
         ImGui::EndFrame();
         g_pd3dDevice->SetRenderState(D3DRS_ZENABLE, FALSE);
