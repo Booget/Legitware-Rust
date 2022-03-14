@@ -158,7 +158,9 @@ float functions::get_barrel(float value)
 float functions::spray(float sens, int fov, float value) {
 	float a = (0.5 * fov * value) / (sens * 90);
 
-	return get_scope(a);
+	float b = get_scope(a);
+	
+	return get_barrel(b);
 }
 
 float functions::convert(float usersens, int fov, float val)
